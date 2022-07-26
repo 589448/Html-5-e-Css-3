@@ -1,0 +1,48 @@
+@charset "UTF-8";
+* {
+    font-family: Arial, Helvetica, sans-serif;
+/* height: 100%; */
+
+}
+
+body {
+background-image: linear-gradient(TO RIGHT,rgb(36, 79, 197),rgb(62, 175, 240),rgb(153, 54, 192),rgb(212, 100, 166));
+
+
+
+
+}
+
+main {
+background-color: #FFFF;
+border-radius: 20PX;
+box-shadow: 5PX 5PX 10PX rgba(25, 18, 53, 0.438);
+width: 600PX;
+padding: 10PX;
+margin: auto;
+}
+
+h1 {
+
+color: blue;
+text-align: center;
+text-shadow: 1PX 1PX 2PX rgba(142, 51, 228, 0.37);
+}
+
+h2 {
+
+color: rgb(137, 58, 184);
+
+
+
+
+
+}
+
+.parag.h2{
+text-decoration: none;
+
+
+}
+
+
